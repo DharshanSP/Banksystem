@@ -1,0 +1,15 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Build
+out/
+
+# Compiled files
+*.class
+
+# Logs
+*.log
+
+# Local files
+accounts.txt
