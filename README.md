@@ -60,6 +60,6 @@ This project demonstrates core Object-Oriented Programming (OOP), database integ
 
 ---
 
-## 👨‍💻 Author
+## by
 
 Darshan S.P
